@@ -7,13 +7,13 @@ who is interested in purchasing Maven Movies. He primarily owns restaurants and 
 has lots of questions for you about your business and the rental business in general. His offer
 seems very generous, so you are going to entertain his questions.
 
-### The objective:
+## The objective:
 Use MySQL to:
 Leverage your SQL skills to extract and analyze data from various tables in the Maven
 Movies database to answer your potential Acquirer’s questions. Each question will require
 you to write a multi-table SQL query, joining at least two tables.
 
-#### Project Questions:
+## Project Questions:
 1. My partner and I want to come by each of the stores in person and meet the managers. Please send over
 the managers’ names at each store, with the full address of each property (street address, district, city, and
 country please).
@@ -47,6 +47,6 @@ investor or an advisor, and for the investors, it would be good to include which
 awards, for what % of them do we carry a film? And how about for actors with two types of awards? Same
 questions. Finally, how about actors with just one award?
 
-##### Tools and database for project:
+## Tools and database for project:
 -- Use MySQL workbench or any other sql flavors
 --  Use the "create_mavenmovies.sql" database file to read data to the project script.
